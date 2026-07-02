@@ -1,5 +1,31 @@
 # Changelog — AI Production Bible
 
+## Milestone 4 — Cinematography
+
+Added camera language and shot design guidance for AI wedding video generation.
+
+Added:
+
+- `05_cinematography/README.md`
+- `05_cinematography/camera_language.md`
+- `05_cinematography/drone_shots.md`
+- `05_cinematography/hero_shots.md`
+- `05_cinematography/movement.md`
+- `05_cinematography/lens_language.md`
+- `05_cinematography/editorial_style.md`
+- `05_cinematography/shot_sequence.md`
+- `05_cinematography/cinematography_prompt_blocks.md`
+
+Purpose:
+
+Teach AI models how to film the Acqualina wedding world: slow movement, drone reveals, palm-framed tracking shots, editorial lens language, hero compositions, and a coherent ceremony-to-reception shot sequence.
+
+Next milestone:
+
+Wedding design: ceremony, cocktail hour, reception, floral palette, wardrobe/environment interaction, guest experience, and final video prompt assemblies.
+
+---
+
 ## Milestone 3 — Atmosphere & Lighting
 
 Added time-of-day, weather, wind, sound, and candlelight guidance for AI image and video generation.
