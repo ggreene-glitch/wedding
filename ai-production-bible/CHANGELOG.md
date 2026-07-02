@@ -1,5 +1,37 @@
 # Changelog — AI Production Bible
 
+## Milestone 5 — Wedding Design
+
+Added the wedding-specific design layer for AI image and video generation.
+
+Added:
+
+- `06_wedding_design/README.md`
+- `06_wedding_design/wedding_identity.md`
+- `06_wedding_design/ceremony.md`
+- `06_wedding_design/mandap.md`
+- `06_wedding_design/processional.md`
+- `06_wedding_design/cocktail_hour.md`
+- `06_wedding_design/reception.md`
+- `06_wedding_design/tablescape.md`
+- `06_wedding_design/floral_language.md`
+- `06_wedding_design/wardrobe_interaction.md`
+- `06_wedding_design/guest_experience.md`
+- `06_wedding_design/timeline.md`
+- `06_wedding_design/emotional_arc.md`
+- `06_wedding_design/wedding_prompt_blocks.md`
+- `06_wedding_design/continuity_rules.md`
+
+Purpose:
+
+Translate the Greene–Nesarikar wedding into AI video language: Indian–Jewish fusion, Great Lawn ceremony, airy floral mandap, ivory blush champagne palette, blue-hour cocktail transition, candlelit outdoor reception, wardrobe/environment interaction, guest experience, timeline, emotional arc, and wedding-specific prompt blocks.
+
+Next milestone:
+
+Final assembly: master video prompts, scene-by-scene prompt packs, QA checklist, and reference index.
+
+---
+
 ## Milestone 4 — Cinematography
 
 Added camera language and shot design guidance for AI wedding video generation.
