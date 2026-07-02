@@ -1,5 +1,32 @@
 # Changelog — AI Production Bible
 
+## Milestone 3 — Atmosphere & Lighting
+
+Added time-of-day, weather, wind, sound, and candlelight guidance for AI image and video generation.
+
+Added:
+
+- `04_atmosphere/README.md`
+- `04_atmosphere/golden_hour.md`
+- `04_atmosphere/blue_hour.md`
+- `04_atmosphere/night_reception.md`
+- `04_atmosphere/wind.md`
+- `04_atmosphere/soundscape.md`
+- `04_atmosphere/candlelight.md`
+- `04_atmosphere/weather.md`
+- `04_atmosphere/lighting_continuity.md`
+- `04_atmosphere/atmosphere_prompt_blocks.md`
+
+Purpose:
+
+Teach AI generators how the Acqualina wedding environment changes from golden-hour ceremony to blue-hour cocktail hour to candlelit night reception, while preserving ocean breeze, palm motion, soundscape, and warm resort glow.
+
+Next milestone:
+
+Cinematography: drone shots, camera movement, lens language, hero shots, transitions, and editorial pacing.
+
+---
+
 ## Milestone 2 — Landscape
 
 Added the permanent landscape language needed for AI image and video generation.
